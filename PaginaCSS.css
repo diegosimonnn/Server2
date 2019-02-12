@@ -1,0 +1,24 @@
+.slider{
+  /*background: url("fotos/6.jpg");*/
+  height:100vh;
+  background-size: cover;
+  background-position: center;
+}
+ul{
+  text-align: center;
+}
+span{
+  color:orange;
+}
+#QuienesSomos{
+  height: 900px;
+}
+#Entrenamientos{
+  height: 900px;
+}
+#Sponsors{
+  height: 900px;
+}
+#Contacto{
+  height: 900px;
+}
